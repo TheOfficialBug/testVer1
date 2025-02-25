@@ -1,4 +1,4 @@
-baseurl = "https://theofficialbug.github.io/testVer1/"
+baseurl = "https://theofficialbug.github.io/testVer1/index.html"
 DefaultContentLanguage = "en"
 title = "Beautiful Hugo"
 # Using theme as git submodule
