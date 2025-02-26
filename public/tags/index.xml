@@ -8,19 +8,19 @@
     <language>en</language>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/testVer1/index.html/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
       <link>http://localhost:1313/testVer1/index.html/tags/example/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
       <guid>http://localhost:1313/testVer1/index.html/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Photoswipe</title>
       <link>http://localhost:1313/testVer1/index.html/tags/photoswipe/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
       <guid>http://localhost:1313/testVer1/index.html/tags/photoswipe/</guid>
       <description></description>
     </item>

@@ -3,21 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/testVer1/index.html/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/testVer1/index.html/tags/example/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/testVer1/index.html/tags/photoswipe/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/testVer1/index.html/post/2017-03-20-photoswipe-gallery-sample/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/testVer1/index.html/post/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/testVer1/index.html/tags/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/testVer1/index.html/post/testpost/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/testVer1/index.html/post/2017-03-20-photoswipe-gallery-sample/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/testVer1/index.html/page/about/</loc>
