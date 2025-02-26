@@ -12,8 +12,9 @@
  
 
 
-      <title>Pages - </title>
-
+  
+  <meta name="description" content="Front Page Content
+beautifulhugo supports content on your front page. Edit /content/_index.md to change what appears here. Delete /content/_index.md if you don&rsquo;t want any content here.">
   <meta name="author" content="Some Person"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -35,13 +36,17 @@
 }
 </script>
 
-<meta property="og:title" content="Pages" />
+<meta property="og:title" content="Beautiful Hugo" />
+<meta property="og:description" content="Front Page Content
+beautifulhugo supports content on your front page. Edit /content/_index.md to change what appears here. Delete /content/_index.md if you don&rsquo;t want any content here.">
 <meta property="og:image" content="http://localhost:1313/testVer1/index.html/img/avatar-icon.png" />
-<meta property="og:url" content="http://localhost:1313/testVer1/index.html/page/" />
+<meta property="og:url" content="http://localhost:1313/testVer1/index.html/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Beautiful Hugo" />
 
-  <meta name="twitter:title" content="Pages" />
+  <meta name="twitter:title" content="Beautiful Hugo" />
+  <meta name="twitter:description" content="Front Page Content
+beautifulhugo supports content on your front page. Edit /content/_index.md to change what appears here. Delete /content/_index.md if you don&rsquo;t want any content here.">
   <meta name="twitter:image" content="http://localhost:1313/testVer1/index.html/img/avatar-icon.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@username" />
@@ -198,11 +203,15 @@
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="page-heading">
               
-                <h1>Pages</h1>
+                <h1>Beautiful Hugo</h1>
               
               
                 <hr class="small">
               
+              
+                
+                  <span class="page-subheading">Build a beautiful and simple website in minutes</span>
+                
               
               
             </div>
@@ -215,18 +224,26 @@
 
 
     
-  <div class="container" role="main">
+  <div role="main" class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
+          <div class="well">
+            <h2 id="front-page-content">Front Page Content</h2>
+<p><code>beautifulhugo</code> supports content on your front page. Edit <code>/content/_index.md</code> to change what appears here. Delete <code>/content/_index.md</code> if you don&rsquo;t want any content here.</p>
+
+          </div>
+        
+
         <div class="posts-list">
           
+          
             <article class="post-preview">
-    <a href="http://localhost:1313/testVer1/index.html/page/about/">
-        <h2 class="post-title">About me</h2>
+    <a href="http://localhost:1313/testVer1/index.html/post/2017-03-20-photoswipe-gallery-sample/">
+        <h2 class="post-title">Photoswipe Gallery Sample</h2>
         
         <h3 class="post-subtitle">
-            Why you&#39;d want to go on a date with me
+            Making a Gallery
         </h3>
         
         
@@ -237,13 +254,13 @@
         <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on January 1, 0001
+  <i class="fas fa-calendar"></i>&nbsp;Posted on March 20, 2017
   
   
-    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;1&nbsp;minutes
+    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;2&nbsp;minutes
   
   
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;55&nbsp;words
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;215&nbsp;words
   
   
     
@@ -257,23 +274,73 @@
     </p>
     <div class="post-entry">
         
-        <p>My name is Inigo Montoya. I have the following qualities:</p>
-<ul>
-<li>I rock a great mustache</li>
-<li>I&rsquo;m extremely loyal to my family</li>
-</ul>
-<p>What else do you need? tell me</p>
-<h3 id="my-history">my history</h3>
-<p>To be honest, I&rsquo;m having some trouble remembering right now, so why don&rsquo;t you just watch <a href="https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29">my movie</a> and it will answer <strong>all</strong> your questions.</p>
+        <p>Beautiful Hugo adds a few custom shortcodes created by <a href="https://www.liwen.id.au/heg/">Li-Wen Yip</a> and <a href="https://github.com/GjjvdBurg/HugoPhotoSwipe">Gert-Jan van den Berg</a> for making galleries with <a href="https://photoswipe.com">PhotoSwipe</a> .</p>
 
+
+
+<div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	  
+  
+  <link rel="stylesheet" href="http://localhost:1313/testVer1/index.html/css/hugo-easy-gallery.css" />
+  <div class="box" >
+    <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <div class="img" style="background-image: url('http://localhost:1313/testVer1/index.html//img/hexagon-thumb.jpg');">
+        <img itemprop="thumbnail" src="/img/hexagon-thumb.jpg" alt="/img/hexagon-thumb.jpg"/>
+      </div>
+      <a href="/img/hexagon.jpg" itemprop="contentUrl"></a>
+    </figure>
+  </div>
+
+  
+  
+  <div class="box" >
+    <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <div class="img" style="background-image: url('http://localhost:1313/testVer1/index.html//img/sphere-thumb.jpg');">
+        <img itemprop="thumbnail" src="/img/sphere-thumb.jpg" alt="Sphere"/>
+      </div>
+      <a href="/img/sphere.jpg" itemprop="contentUrl"></a>
+        <figcaption>
+            <p>Sphere</p>
+        </figcaption>
+    </figure>
+  </div>
+
+  
+  
+  <div class="box" >
+    <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <div class="img" style="background-image: url('http://localhost:1313/testVer1/index.html//img/triangle-thumb.jpg');">
+        <img itemprop="thumbnail" src="/img/triangle-thumb.jpg" alt="This is a long comment about a triangle"/>
+      </div>
+      <a href="/img/triangle.jpg" itemprop="contentUrl"></a>
+        <figcaption>
+            <p>Triangle</p>
+        </figcaption>
+    </figure>
+  </div>
+
+
+</div>
+        <a href="http://localhost:1313/testVer1/index.html/post/2017-03-20-photoswipe-gallery-sample/" class="post-read-more">[Read More]</a>
         
     </div>
 
+    
+    <div class="blog-tags">
+        
+       
+       <a href="http://localhost:1313/testVer1/index.html/tags/example/">example</a>&nbsp;
+        
+       
+       <a href="http://localhost:1313/testVer1/index.html/tags/photoswipe/">photoswipe</a>&nbsp;
+         
+    </div>
     
 
 </article>
           
         </div>
+
         
       </div>
     </div>
@@ -597,7 +664,7 @@
           
           
           <li>
-            <a href="/testVer1/index.html/page/index.xml" title="RSS">
+            <a href="/testVer1/index.html/index.xml" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
